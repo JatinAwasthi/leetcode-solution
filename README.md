@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0018-4sum) |
+| [0152-maximum-product-subarray](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
