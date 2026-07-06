@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0392-is-subsequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
