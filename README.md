@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0152-maximum-product-subarray) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
