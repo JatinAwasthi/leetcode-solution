@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0018-4sum) |
+| [0392-is-subsequence](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
