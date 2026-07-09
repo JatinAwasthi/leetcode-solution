@@ -20,11 +20,19 @@ class Solution
         while(lowSpeed<=highSpeed)
         {
             int midSpeed = lowSpeed + (highSpeed - lowSpeed) / 2;
+            // or the optimal mid formula is 
+            // int hours = (piles[i] + midSpeed - 1) / midSpeed;
 
+            // because:
+
+            // No floating-point arithmetic.
+            // Faster.
+            // Avoids any precision issues.
+            // Standard interview solution.
             long total = 0 ;
             for(int i = 0 ; i<piles.length ; i++)
             {
-                int hours = (int) Math.ceil((double) piles[i] / midSpeed);
+                int hours = (piles[i] + midSpeed - 1) / midSpeed;
                 total+=hours;
             }
             if(total <= h)
