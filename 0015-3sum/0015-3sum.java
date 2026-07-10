@@ -31,7 +31,7 @@ class Solution {
 
                     left++;
                     right--;
-
+    
                     // Skip duplicate left values
                     while (left < right && nums[left] == nums[left - 1]) {
                         left++;
