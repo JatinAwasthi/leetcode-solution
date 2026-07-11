@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/JatinAwasthi/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
