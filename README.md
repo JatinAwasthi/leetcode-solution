@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0018-4sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
