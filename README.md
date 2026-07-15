@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0704-binary-search) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/JatinAwasthi/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0371-sum-of-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/JatinAwasthi/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
